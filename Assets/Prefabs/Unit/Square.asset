@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 076c899e4b75c8b41af9eb01f0651371, type: 3}
+  m_Name: Square
+  m_EditorClassIdentifier: 
+  unit: {fileID: 3878075109015658105, guid: 770ef314ce0571c4099d0195e012a6c0, type: 3}
+  unitName: Square
+  unitLevel: 5
+  maxHP: 18
+  attack: 25
+  defense: 5
+  speed: 10
+  Normal: 0
+  Fire: 1
+  Water: 0
+  Grass: 0
+  skills: []
